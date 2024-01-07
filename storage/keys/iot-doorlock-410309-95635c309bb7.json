@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iot-doorlock-410309",
+  "private_key_id": "95635c309bb70e91317f84a6c3925cfd5f75a972",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJsaPofHubx6Fj\nyRJP9F+aKNnvR9oqfG2R0ElFtQ0V/hvMRMOtERL7HjVYK9vBTWwulQnhYFSF2NKc\nlfdizhEv1DJqPmazX5hH3Fei94WXFi9fmbB61U+fsaHcwrBzZDerarVYZP1EVc4F\nOeaxXhy+npM330pTRB0i0o9iQcKq67yTl7EjIjDM7FAja7cioXGovmcgpBLUXM20\nRbttpdqURnd3js6joe1z5+INDej8CCZMRLOhdEgixRPRH4KtAQdtJk6JYUu46xrR\ntM6P5bStSPyq04ThPShXpIs0bxRnQpAolgU5491us3Ipvo+Q3yMbnDNHb/yjhBTT\nravqCkEHAgMBAAECggEAUxVSfB/fOUYMRNMcsIPtZ88BK1CxXYQBDKo8rLLOj6sr\n30LKSj340Cna9pWmgiO29x9cwRLR7orpAyjBjdlt+gJSvDI1UxmDXMK29QI6bQjt\n/dcM/CRnltRw5UPrtLTpO7sKtb1wGNixs7Rsw86NT7Z51W+tKcyqpeAPwX1uR8J1\npKkB3BRwGbwNciwKPfcyunLE5VHM35qyZ26Hm1VkTm7pAmsiOYA6CN1gVp5l3khX\nZe2NJk8PY1axdomJYcb2llkjelEdkTmY7EonLrJpXwnkRhvhMCbdpHzaczdGXqPO\njm6QLLaUK2OJFDtP8qcrLvJ5tRxQ28hhxjl/6+V4ZQKBgQDmAmfeJzZWtJGBSc14\np1j6iY4IzcFEwWIKA6QSLtrMv/yDal+e1PZeba9o1I0zzoRolWYTdPHnnkBFf8cn\nj2ESHUH5pcE6+GJB1esZkp4CxdYkykJs+fHDj/VDomh8hqdkshghb1Y5fPTMuxJO\n9xAgehHWbwVW1GKw0Eb0JqG3iwKBgQDgfCN1YSCgUfEX0UEoaRdPUk42Rwal1c0Z\nr/y/NpmiMBugRzK8lhsyxCG2jNlnhaxjEkAQhYfumRrfKCgwczUwX0e8Wv4jx9lS\nOwXMl+A0aQ5JH939l+oKl2JxFv19MtVy2x3M7QBmup6pTbAzP95m+w99LjwiokK9\npv/Fqnvr9QKBgBdd8zNshGa2nXmnB8rUJYP+aYGXdaUIiG9AA3EddXkLoBmxutkm\nBYl+Vy2tOlMjDeyaEO61GMZRG3J0EsWAGXp/om48Wq8lAMZzdxj3/jmF48WFDs6H\nbfpSK7adT0QnYeYm+bCb4QSiHzSVZLzE+Mxz2lAQo1g453XTEwJG0nMVAoGBAN/Q\nRRYZoYrWR9bkRd+Bb8EhIWOSSvl6gcPzp74JNQH0jwatFdPaoQFrdOVp5rQFHYul\nPYR7bbygn58QjYlIxCYXSRFtc2a/MViAClcisWHvwFN91zmoharLplV0g4WY8iFS\nf5K6VSUXOWs5Tsy6CAaKl7XKLCCnwH0QDIDKakUlAoGABRHygQKR1BusIyl+b+k4\ni0k5IJK6xtX/UsraVitSpT34pUs06cMhKenuQikm34Sg3umZuVYvyxyMC4rY0XjH\n42JHtKyFcHlFg2/HP9IFilEWETj2lu4cGGIki7xYTrZIHaowhQIWT4I2vHTqqIUV\nvaozu6ygOLPC/33PrjlJmmI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "img-upload-serviceacc@iot-doorlock-410309.iam.gserviceaccount.com",
+  "client_id": "102504469535618488607",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/img-upload-serviceacc%40iot-doorlock-410309.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
